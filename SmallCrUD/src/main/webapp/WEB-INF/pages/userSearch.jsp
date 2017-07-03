@@ -105,7 +105,7 @@
 
 </br>
 
-<div align="center" class="panel-footer" style="background-color:gold; width:450px" id="pagination">
+<div align="center" class="panel-footer" style="background-color:gold; width:883px" id="pagination">
     <c:url value="search${page-1}" var="prev">
         <c:param name="page" value="${page-1}"/>
     </c:url>
